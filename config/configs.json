@@ -38,7 +38,7 @@
 			"url": "https://github.com/Gideon9212/bctc-scripts",
 			"repo_name": "BCTC Scripts",
 			"repo_path": "./repositories/BCTC-Scripts",
-			"script_path": "script",
+			"script_path": ".",
 			"should_update": true,
 			"should_read": true
 		},
