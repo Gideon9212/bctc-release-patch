@@ -76,9 +76,9 @@
 	"servers": [
 		{
 			"name": "Battle Cats Duel Server",
-			"address": "73.37.14.156",
+			"address": "67.171.210.71",
 			"duelport": 7911,
-			"roomaddress": "73.37.14.156",
+			"roomaddress": "67.171.210.71",
 			"roomlistprotocol": "http",
 			"roomlistport": 7922
 		},
