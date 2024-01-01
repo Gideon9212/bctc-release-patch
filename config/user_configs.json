@@ -1,0 +1,21 @@
+{
+	"repos": [
+		{
+			"url": "https://github.com/Gideon9212/BCTCG",
+			"repo_name": "BCTCG",
+			"repo_path": "./repositories/BCTCG",
+			"should_update": true,
+			"should_read": true
+		}
+	],
+	"servers": [
+		{
+			"name": "Battle Cats Duel Server",
+			"address": "67.171.210.71",
+			"duelport": 7911,
+			"roomaddress": "67.171.210.71",
+			"roomlistprotocol": "http",
+			"roomlistport": 7922
+		}
+	]
+}
