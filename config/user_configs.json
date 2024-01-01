@@ -4,6 +4,7 @@
 			"url": "https://github.com/Gideon9212/BCTCG",
 			"repo_name": "BCTCG",
 			"repo_path": "./repositories/BCTCG",
+			"lflist_path": "./iflist",
 			"should_update": true,
 			"should_read": true
 		}
