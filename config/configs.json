@@ -27,37 +27,16 @@
 			"should_read": true
 		},
 		{
-			"url": "https://github.com/Gideon9212/bctc-pics",
-			"repo_name": "BCTC Pics",
-			"repo_path": "./pics",
-			"pic_path": ".",
-			"should_update": true,
-			"should_read": true
-		},
-		{
-			"url": "https://github.com/Gideon9212/bctc-scripts",
-			"repo_name": "BCTC Scripts",
-			"repo_path": "./repositories/BCTC-Scripts",
-			"script_path": ".",
-			"should_update": true,
-			"should_read": true
-		},
-		{
-			"url": "https://github.com/Gideon9212/bctc-cdb",
-			"repo_name": "BCTC CDB",
-			"repo_path": "./repositories/BCTC-CDB",
-			"should_update": true,
-			"should_read": true
-		},
-		{
-			"url": "https://github.com/Gideon9212/bctc-LFlist",
-			"repo_name": "BCTC Ban List",
-			"repo_path": "./repositories/BCTC-lflists",
-			"lflist_path": ".",
+			"url": "https://github.com/Gideon9212/bctcg",
+			"repo_name": "BCTCG",
+			"repo_path": ".",
+			"script_path": "./Scripts",
+			"pic_path": "./pics",
+			"lflist_path": "."
+			"data_path": "",
 			"should_update": true,
 			"should_read": true
 		}
-		
 	],
 	"urls": [
 		{
